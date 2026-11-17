@@ -1,0 +1,31 @@
+# Configurações das cards — https://github.com/pedrocatalao/github-cool-readme
+user: ux-lead
+
+show: [about, summary, languages, weekly, streaks]
+
+count:
+  private: true
+  orgs: true
+
+look:
+  style: dotmatrix
+  color: github
+  animations: true
+  background: none
+
+cards:
+  about:
+    title: About
+    headline: "Hi, I'm *Renato*"
+    lines:
+      - "*Strategic DesignOps Partner* in Customer Experience"
+      - "Building design infrastructure: *people*, *systems* and *culture*"
+      - "15+ years in product design and design leadership"
+    facts:
+      Mentoring: "#1 in Latin America on ADPList"
+      Philosophy: "Ubuntu - grow together"
+      Offline: "Music and photography"
+  summary:
+    ring: percent
+  languages:
+    count: 6
